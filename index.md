@@ -49,8 +49,7 @@ Abbasov, I. A. (2024). *(In Azerbaijani)* *Latin language* (with G. M. Bayramova
 Abbasov, I. A. (2024). *(In Azerbaijani)* *General linguistics: History, theory, and the epistemological foundations of cognitive sciences*. Baku: Füyuzat Publishing House. (800 pp.)
 
 Abbasov, I. A. (2024). *(In Azerbaijani)* *Translation from French, theoretical and comparative linguistic study, and commentary on Silvestre de Sacy’s “Principles of general grammar” (1799) and Amédée Jaubert’s “Fundamentals of Turkish grammar” (1823)*. Baku: Füyuzat Publishing House. (768 pp.)
-
-Abbasov, I. A. (2024). *(In French and Azerbaijani)* *Les saintes écritures de la linguistiqu
+Abbasov, I. A. (2024). *(In French and Azerbaijani)* *Les saintes écritures de la linguistique: The general and rational grammar of Port-Royal*. Baku: Füyuzat Publishing House. (496 pp.)
 ---
 
 ## Academic Profiles
