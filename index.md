@@ -40,7 +40,7 @@ Baku: Yazıçı Publishing House. *(In Azerbaijani).* **223 pp.**
 *Dini-elmi-əxlaqi söhbətlər*  
 (*Religious–Scientific–Moral Discourses*).  
 Nakhchivan: Qızıl Dağ Publishing House. *(In Azerbaijani).* **334 pp.**  
-ISBN: —
+
 
 **Abbasov, I. A.** (2011).  
 *Ərəb dilində sintaktik kateqoriyalar və bəlağət*  
@@ -58,7 +58,7 @@ ISBN: — 978-9952-460-26-1
 *Ərəbcə–ingiliscə–Azərbaycan­ca dilçilik və ədəbiyyatşünaslıq terminləri lüğəti*  
 (*Arabic–English–Azerbaijani Dictionary of Linguistic and Literary Studies Terms*).  
 Baku: Elm və Təhsil Publishing House. *(In Azerbaijani).* **140 pp.**  
-ISBN: —
+ISBN: — 978-9952-8176-5-6
 
 **Abbasov, I. A.** (2017).  
 *Mirzə Kazımbəyin “Türk-tatar dilinin ümumi qrammatikası”nın tərcümə, tədqiq və şərhi*  
@@ -73,7 +73,7 @@ ISBN: —978-9952-504-93-4
 (*Translation, Study, and Commentary on Pietro della Valle’s  
 “Grammar of the Turkish Language”*).  
 Baku: Zərdabi LTD LLC. *(In Azerbaijani).* **1196 pp.**  
-ISBN: —
+ISBN: — 978-9952-526-70-0
 
 **Abbasov, I. A., & Bayramova, G. M.** (2024).  
 *Latın dili*  
