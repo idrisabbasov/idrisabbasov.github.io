@@ -30,29 +30,89 @@ A central part of my research involves comparative and contrastive studies of Az
 
 ## Publications (Books)
 
-Abbasov, I. A. (2007). *(In Azerbaijani)* *Problems of functional syntax in the Arabic language*. Baku: Yazıçı Publishing House. (223 pp.)
-
-Abbasov, I. A. (2008). *(In Azerbaijani)* *Religious–scientific–moral discourses*. Nakhchivan: Qızıl Dağ Publishing House. (334 pp.)
-
-Abbasov, I. A. (2011). *(In Azerbaijani)* *Syntactic categories and rhetoric in the Arabic language*. Baku: Bakı Çap Evi. (440 pp.)
-
-Abbasov, I. A. (2013). *(In Azerbaijani)* *History of religions and sects (Is religion a threat, or is society in danger?)* Baku: Zərdabi LTD LLC. (744 pp.)
-
-Abbasov, I. A. (2016). *(In Azerbaijani)* *Arabic–English–Azerbaijani dictionary of linguistic and literary studies terms* (with E. A. Abbasova). Baku: Elm və Təhsil Publishing House. (140 pp.)
-
-Abbasov, I. A. (2017). *(In Azerbaijani)* *Translation, study, and commentary on Mirza Kazimbey’s “General grammar of the Turkic-Tatar language” (The first scientific grammar of the Azerbaijani language)*. Baku: Zərdabi LTD LLC. (1007 pp.)
-
-Abbasov, I. A. (2020). *(In Azerbaijani)* *Translation, study, and commentary on Pietro della Valle’s “Grammar of the Turkish language”* (with G. M. Bayramova). Baku: Zərdabi LTD LLC. (1196 pp.)
-
-Abbasov, I. A. (2024). *(In Azerbaijani)* *Latin language* (with G. M. Bayramova). Baku: Füyuzat Publishing House. (208 pp.)
-
-Abbasov, I. A. (2024). *(In Azerbaijani)* *General linguistics: History, theory, and the epistemological foundations of cognitive sciences*. Baku: Füyuzat Publishing House. (800 pp.)
-
-Abbasov, I. A. (2024). *(In Azerbaijani)* *Translation from French, theoretical and comparative linguistic study, and commentary on Silvestre de Sacy’s “Principles of general grammar” (1799) and Amédée Jaubert’s “Fundamentals of Turkish grammar” (1823).* Baku: Füyuzat Publishing House. (768 pp.)
-
-Abbasov, I. A. (2024). *(In French and Azerbaijani)* *Les saintes écritures de la linguistique: The general and rational grammar of Port-Royal.* Baku: Füyuzat Publishing House. (496 pp.)
+**Abbasov, I. A.** (2007).  
+*Müasir dilçilik baxımından ərəb dili funksional sintaksisinin problemləri*  
+(*Problems of Functional Syntax in the Arabic Language*).  
+Baku: Yazıçı Publishing House. *(In Azerbaijani).* **223 pp.**  
 
 
+**Abbasov, I. A.** (2008).  
+*Dini-elmi-əxlaqi söhbətlər*  
+(*Religious–Scientific–Moral Discourses*).  
+Nakhchivan: Qızıl Dağ Publishing House. *(In Azerbaijani).* **334 pp.**  
+ISBN: —
+
+**Abbasov, I. A.** (2011).  
+*Ərəb dilində sintaktik kateqoriyalar və bəlağət*  
+(*Syntactic Categories and Rhetoric in the Arabic Language*).  
+Baku: Bakı Çap Evi. *(In Azerbaijani).* **440 pp.**  
+ISBN: — 978-9952-456-10-8
+
+**Abbasov, I. A.** (2013).  
+*Din təhlükədir, yoxsa cəmiyyət təhlükədədir?*  
+(*History of Religions and Sects: Is Religion a Threat, or Is Society in Danger?*).  
+Baku: Zərdabi LTD LLC. *(In Azerbaijani).* **744 pp.**  
+ISBN: — 978-9952-460-26-1
+
+**Abbasov, I. A., & Abbasova, E. A.** (2016).  
+*Ərəbcə–ingiliscə–Azərbaycan­ca dilçilik və ədəbiyyatşünaslıq terminləri lüğəti*  
+(*Arabic–English–Azerbaijani Dictionary of Linguistic and Literary Studies Terms*).  
+Baku: Elm və Təhsil Publishing House. *(In Azerbaijani).* **140 pp.**  
+ISBN: —
+
+**Abbasov, I. A.** (2017).  
+*Mirzə Kazımbəyin “Türk-tatar dilinin ümumi qrammatikası”nın tərcümə, tədqiq və şərhi*  
+(*Translation, Study, and Commentary on Mirza Kazimbey’s  
+“General Grammar of the Turkic-Tatar Language”:  
+The First Scientific Grammar of the Azerbaijani Language*).  
+Baku: Zərdabi LTD LLC. *(In Azerbaijani).* **1007 pp.**  
+ISBN: —978-9952-504-93-4
+
+**Abbasov, I. A., & Bayramova, G. M.** (2020).  
+*Pietro della Vallenin “Türk dilinin qrammatikası”nın tərcümə, tədqiq və şərhi*  
+(*Translation, Study, and Commentary on Pietro della Valle’s  
+“Grammar of the Turkish Language”*).  
+Baku: Zərdabi LTD LLC. *(In Azerbaijani).* **1196 pp.**  
+ISBN: —
+
+**Abbasov, I. A., & Bayramova, G. M.** (2024).  
+*Latın dili*  
+(*Latin Language*).  
+Baku: Füyuzat Publishing House. *(In Azerbaijani).* **208 pp.**  
+ISBN: — 978-9952-8512-4-3
+
+**Abbasov, I. A.** (2024).  
+*Ümumi dilçilik: dilçiliyin tarixi, nəzəriyyəsi və koqnitiv elmlərin epistemoloji əsasları*  
+(*General Linguistics: History, Theory, and the Epistemological Foundations of Cognitive Sciences*).  
+Baku: Füyuzat Publishing House. *(In Azerbaijani).* **800 pp.**  
+ISBN: — 978-9952-584-11-0
+
+**Abbasov, I. A.** (2024).  
+*Silvestr dö Sasinin “Ümumi qrammatikanın prinsipləri” və  
+Amede Joberin “Türk dili qrammatikasının əsasları”nın fransız dilindən tərcüməsi,  
+nəzəri və müqayisəli dilçilik baxımından tədqiqat və şərhi*  
+(*Translation from French, Theoretical and Comparative Linguistic Study, and Commentary on  
+Silvestre de Sacy’s “Principles of General Grammar” (1799) and  
+Amédée Jaubert’s “Fundamentals of Turkish Grammar” (1823)*).  
+Baku: Füyuzat Publishing House. *(In Azerbaijani).* **768 pp.**  
+ISBN: — 978-9952-584-29-5
+
+**Abbasov, I. A.** (2024).  
+*Dilçiliyin Kitabi-Müqəddəsi: Ümumi və rasional Por-Royal qrammatikası*  
+(*Les Saintes Écritures de la Linguistique:  
+The General and Rational Grammar of Port-Royal*).  
+Baku: Füyuzat Publishing House. *(In French and Azerbaijani).* **496 pp.**  
+ISBN: — 978-9952-584-43-1
+
+**Abbasov, I. A.** (2025).  
+*Ümumi dilçilik: dilçiliyin tarixi, nəzəriyyəsi və koqnitiv elmlərin epistemoloji əsasları*  
+(*General Linguistics: History, Theory, and the Epistemological Foundations of Cognitive Sciences*).  
+Baku: Füyuzat Publishing House. *(In Azerbaijani).* **640 pp.**  
+ISBN: 978-9952-8593-9-3  
+*(Second revised edition)*
+
+> *Note:* English titles are provided for international accessibility.  
+> All works were originally published in Azerbaijani unless otherwise specified.
 ---
 
 ## Academic Profiles
