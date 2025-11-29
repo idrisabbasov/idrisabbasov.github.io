@@ -11,7 +11,7 @@ My research focuses on:
 - Comparative and historical linguistics  
 - Cognitive linguistics and epistemology  
 - Translation, commentary, and critical editions of classical grammatical works  
-
+- Religious studies
 ---
 
 ## 📚 Selected Books & Monographs
@@ -42,7 +42,8 @@ My research focuses on:
 ## 🌍 Languages
 
 - Azerbaijani (native)  
-- French  
+- French
+- Russian 
 - English  
 - Arabic  
 - Italian  
