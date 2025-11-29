@@ -53,7 +53,7 @@ My research focuses on:
 
 ## 🔗 Academic Profiles
 
-- **ORCID:** https://orcid.org/XXXX-XXXX-XXXX-XXXX  
+- **ORCID:** https://orcid.org/0009-0005-5274-0777  
 - **Google Scholar:** https://scholar.google.com/  
 - **ResearchGate:** https://www.researchgate.net/  
 - **Academia.edu:** https://www.academia.edu/  
